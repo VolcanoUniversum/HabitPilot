@@ -8,6 +8,14 @@ include_in_header: true
 
 ## [unreleased]
 
+## [08/20/2021]
+
+### Added:
+- You are able to add note for Habit history item
+
+### Changed:
+- Completion icon for Habit history item
+
 ## [08/13/2021]
 
 ### Added:
