@@ -8,6 +8,11 @@ include_in_header: true
 
 ## [unreleased]
 
+## [08/27/2021]
+
+### Added:
+- You are able to specify unit for your Habit, e.g., cup, dollar, miles and so on
+
 ## [08/20/2021]
 
 ### Added:
