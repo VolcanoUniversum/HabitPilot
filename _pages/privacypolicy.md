@@ -8,5 +8,5 @@ include_in_header: false
 April 16, 2021
 
 # Privacy Policy
-HabitPilot does not use third-party analytics or ads.
+Pilot does not use third-party analytics or ads.
 All your settings & data are stored securely on your devices and sync by iCloud.

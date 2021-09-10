@@ -8,6 +8,12 @@ include_in_header: true
 
 ## [unreleased]
 
+## [09/10/2021]
+
+### Added:
+- You are able to select a custom color for your Habit
+- Goal can be defined via user input - useful for a large numbers
+
 ## [08/27/2021]
 
 ### Added:
