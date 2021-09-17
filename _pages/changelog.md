@@ -8,6 +8,11 @@ include_in_header: true
 
 ## [unreleased]
 
+## [09/17/2021]
+
+### Added:
+- You are able to configure a step of change for your Habit
+
 ## [09/10/2021]
 
 ### Added:
