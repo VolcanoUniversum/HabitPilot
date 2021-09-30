@@ -8,6 +8,11 @@ include_in_header: true
 
 ## [unreleased]
 
+## [09/30/2021]
+
+### Fixed:
+- Compatibility with iOS 15
+
 ## [09/17/2021]
 
 ### Added:
