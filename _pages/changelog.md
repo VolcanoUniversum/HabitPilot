@@ -8,6 +8,11 @@ include_in_header: true
 
 ## [unreleased]
 
+## [10/08/2021]
+
+### Changed:
+- The Habit's action and the history form are merged into one
+
 ## [09/30/2021]
 
 ### Fixed:
