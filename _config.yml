@@ -41,6 +41,10 @@ features                                  :
     description                           : All your Habits and progresses are seamlessly synchronize across your devices.
     fontawesome_icon_name                 : cloud
 
+  - title                                 : Customizable
+    description                           : You can create different types of Habits - track your sleeping, budget or mood.
+    fontawesome_icon_name                 : edit
+
   - title                                 : Free
     description                           : Unlimited access to all features without any payment.
     fontawesome_icon_name                 : credit-card
