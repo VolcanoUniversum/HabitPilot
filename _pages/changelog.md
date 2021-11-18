@@ -8,6 +8,14 @@ include_in_header: true
 
 ## [unreleased]
 
+## [11/18/2021]
+
+### Added:
+- The Habit's icon can be any emoji.
+
+### Changed:
+- New icon and color schema for app.
+
 ## [11/12/2021]
 
 ### Added:
