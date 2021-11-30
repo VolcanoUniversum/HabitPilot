@@ -8,6 +8,16 @@ include_in_header: true
 
 ## [unreleased]
 
+## [11/30/2021]
+
+### Added:
+- The Habit can be defined as required amount of Time. It is useful for creates Habits such as Sleep Tracking.
+
+### Fixed:
+- The button for saving the form has different color for enabled and disabled state.
+- The progress graph for a selection type has correct count of completions.
+- Unable to show a Habit's detail in landscape mode.
+
 ## [11/18/2021]
 
 ### Added:
@@ -19,7 +29,7 @@ include_in_header: true
 ## [11/12/2021]
 
 ### Added:
-- The Habit can be defined as a selection from values. It is useful for creates Habits such as Mood Trackering.
+- The Habit can be defined as a selection from values. It is useful for creates Habits such as Mood Tracking.
 
 ### Fixed:
 - Unable to show a Habit's detail in landscape mode.
