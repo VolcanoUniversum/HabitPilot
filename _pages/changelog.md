@@ -8,6 +8,14 @@ include_in_header: true
 
 ## [unreleased]
 
+## [02/11/2022]
+
+### Fixed:
+- Goal's settings localization.
+
+### Changed:
+- New design for a selection from values.
+
 ## [11/30/2021]
 
 ### Added:
