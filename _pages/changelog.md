@@ -8,6 +8,11 @@ include_in_header: true
 
 ## [unreleased]
 
+## [02/18/2022]
+
+### Fixed:
+- Optimize App performance.
+
 ## [02/11/2022]
 
 ### Fixed:
