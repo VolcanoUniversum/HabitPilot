@@ -8,6 +8,11 @@ include_in_header: true
 
 ## [unreleased]
 
+## [02/24/2022]
+
+### Fixed:
+- Random App crashes.
+
 ## [02/18/2022]
 
 ### Fixed:
