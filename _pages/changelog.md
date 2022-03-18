@@ -8,6 +8,12 @@ include_in_header: true
 
 ## [unreleased]
 
+## [03/18/2022]
+
+### Changed:
+- New design for a Habit's completion form.
+- Minimal required iOS version is 15.0.
+
 ## [02/24/2022]
 
 ### Fixed:
